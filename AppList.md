@@ -1,0 +1,8 @@
+- fzf
+- gcc
+- git
+- make
+- neovim
+- openssh
+- ranger/yazi
+- zsh
