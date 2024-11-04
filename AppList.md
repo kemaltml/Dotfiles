@@ -2,6 +2,7 @@
 - gcc
 - git
 - make
+- nchat
 - neovim
 - openssh
 - ranger/yazi
