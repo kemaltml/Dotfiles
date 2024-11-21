@@ -1,0 +1,9 @@
+#! /bin/bash
+cd $HOME/vault
+echo "-----------------"
+cat $HOME/gittoken.txt
+echo "-----------------"
+cd "$HOME/vault"
+ls -la
+echo "-----------------"
+git status
