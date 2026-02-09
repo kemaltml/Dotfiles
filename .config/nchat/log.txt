@@ -1,8 +1,0 @@
-2024-10-21 23:31:25.994 | INFO  | nchat 5.3.2  (main.cpp:249)
-2024-10-21 23:31:25.995 | INFO  | Ubuntu 22.04.5 LTS x86_64  (main.cpp:251)
-2024-10-21 23:31:25.995 | INFO  | GCC 11.4.0 glibc 2.35  (main.cpp:253)
-2024-10-21 23:31:25.995 | INFO  | Go 1.22.2  (main.cpp:255)
-2024-10-21 23:31:25.995 | INFO  | Telegram ON, WhatsApp ON  (main.cpp:257)
-2024-10-21 23:31:26.000 | INFO  | load whatsapp profile  (wmchat.cpp:118)
-2024-10-21 23:31:26.006 | INFO  | ui loop start  (ui.cpp:96)
-2024-10-21 23:31:27.025 | INFO  | whatsmeow Successfully authenticated  (gowm.go:478)
